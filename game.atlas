@@ -1,0 +1,394 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+Skins/Scifi/Expander
+  rotate: false
+  xy: 4, 14
+  size: 170, 56
+  split: 43, 44, 16, 15
+  pad: 43, 44, 15, 15
+  orig: 170, 56
+  offset: 0, 0
+  index: -1
+Skins/Scifi/ExpanderB
+  rotate: false
+  xy: 1678, 124
+  size: 170, 56
+  split: 43, 44, 16, 15
+  pad: 43, 44, 15, 15
+  orig: 170, 56
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TableD
+  rotate: false
+  xy: 1854, 188
+  size: 176, 150
+  split: 4, 4, 3, 2
+  orig: 176, 150
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TableE
+  rotate: false
+  xy: 1310, 54
+  size: 176, 150
+  split: 4, 4, 3, 2
+  orig: 176, 150
+  offset: 0, 0
+  index: -1
+Skins/Scifi/Tooltip
+  rotate: false
+  xy: 1784, 52
+  size: 58, 64
+  split: 28, 28, 24, 23
+  pad: 23, 23, 25, 24
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleE
+  rotate: false
+  xy: 1784, 52
+  size: 58, 64
+  split: 28, 28, 24, 23
+  pad: 23, 23, 25, 24
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TopTable
+  rotate: false
+  xy: 534, 18
+  size: 52, 52
+  split: 8, 9, 7, 8
+  pad: 10, 10, -1, -1
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TopTableB
+  rotate: false
+  xy: 1664, 188
+  size: 182, 150
+  split: 10, 10, 3, 2
+  orig: 182, 150
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TopTableC
+  rotate: false
+  xy: 1494, 30
+  size: 176, 150
+  split: 9, 4, 82, 66
+  orig: 176, 150
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TopTableD
+  rotate: false
+  xy: 594, 22
+  size: 52, 48
+  split: 4, 3, 4, 4
+  pad: 4, 3, 3, 3
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+Skins/Scifi/TopTableE
+  rotate: false
+  xy: 654, 18
+  size: 52, 52
+  split: 8, 9, 7, 8
+  pad: 10, 10, -1, -1
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/bg
+  rotate: false
+  xy: 1310, 212
+  size: 346, 296
+  split: 0, 0, 0, 0
+  orig: 346, 296
+  offset: 0, 0
+  index: -1
+Skins/Scifi/bgB
+  rotate: false
+  xy: 1664, 346
+  size: 346, 162
+  split: 0, 0, 0, 0
+  orig: 346, 162
+  offset: 0, 0
+  index: -1
+Skins/Scifi/bgC
+  rotate: false
+  xy: 4, 78
+  size: 430, 430
+  split: 6, 4, 2, 2
+  orig: 430, 430
+  offset: 0, 0
+  index: -1
+Skins/Scifi/bgD
+  rotate: false
+  xy: 880, 82
+  size: 422, 426
+  split: 0, 0, 0, 0
+  orig: 422, 426
+  offset: 0, 0
+  index: -1
+Skins/Scifi/bgE
+  rotate: false
+  xy: 1678, 18
+  size: 98, 98
+  split: 0, 0, 0, 0
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+Skins/Scifi/bgF
+  rotate: false
+  xy: 442, 78
+  size: 430, 430
+  split: 8, 4, 2, 2
+  orig: 430, 430
+  offset: 0, 0
+  index: -1
+Skins/Scifi/checkbox
+  rotate: false
+  xy: 340, 6
+  size: 58, 64
+  split: 28, 28, 24, 23
+  pad: 13, 6, 25, 24
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/checkboxB
+  rotate: false
+  xy: 340, 6
+  size: 58, 64
+  split: 28, 28, 24, 23
+  pad: 13, 6, 25, 24
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/checkbox-pressed
+  rotate: false
+  xy: 274, 6
+  size: 58, 64
+  split: 28, 28, 24, 23
+  pad: 13, 11, 25, 24
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/rectangleWithOutline
+  rotate: false
+  xy: 1494, 201
+  size: 3, 3
+  split: 1, 1, 0, 0
+  pad: 0, 2, 0, 0
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Skins/Scifi/rectangleWithOutlineB
+  rotate: false
+  xy: 182, 21
+  size: 3, 3
+  split: 1, 1, 0, 0
+  pad: 0, 2, 0, 0
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Skins/Scifi/rectangleWithOutlineC
+  rotate: false
+  xy: 4, 5
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeHexagon
+  rotate: false
+  xy: 1948, 107
+  size: 54, 73
+  split: 26, 26, 41, 31
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeHexagonB
+  rotate: false
+  xy: 406, 6
+  size: 58, 64
+  split: 28, 28, 24, 23
+  pad: 13, 13, 25, 24
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangle
+  rotate: false
+  xy: 1856, 91
+  size: 44, 43
+  split: 8, 8, 3, 3
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangle-mid
+  rotate: false
+  xy: 1902, 45
+  size: 38, 38
+  split: 17, 17, 15, 15
+  pad: 17, 17, -1, -1
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangle-mid-border
+  rotate: false
+  xy: 1784, 6
+  size: 38, 38
+  split: 18, 18, 18, 18
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangle-small
+  rotate: false
+  xy: 2018, 484
+  size: 24, 24
+  split: 10, 10, 10, 10
+  pad: 10, 10, 2, 2
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleB
+  rotate: false
+  xy: 714, 18
+  size: 52, 52
+  split: 9, 14, 8, 8
+  pad: 10, 10, 9, 8
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleC
+  rotate: false
+  xy: 894, 22
+  size: 50, 52
+  split: 12, 13, 9, 8
+  pad: 13, 13, 14, 13
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleD
+  rotate: false
+  xy: 1850, 39
+  size: 44, 44
+  split: 9, 7, 4, 3
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleF
+  rotate: false
+  xy: 952, 22
+  size: 50, 52
+  split: 12, 13, 9, 8
+  pad: 13, 13, 14, 13
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleG
+  rotate: false
+  xy: 1068, 28
+  size: 46, 46
+  split: 9, 8, 5, 5
+  pad: 7, 7, 6, 5
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleGrid
+  rotate: false
+  xy: 774, 18
+  size: 52, 52
+  split: 24, 23, 8, 8
+  pad: 24, 23, -1, -1
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleH
+  rotate: false
+  xy: 1122, 33
+  size: 46, 41
+  split: 9, 8, 5, 0
+  pad: 7, 7, 6, 0
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleI
+  rotate: false
+  xy: 1176, 33
+  size: 46, 41
+  split: 8, 8, 0, 5
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleJ
+  rotate: false
+  xy: 1230, 28
+  size: 46, 46
+  split: 9, 8, 5, 5
+  pad: 7, 7, 6, 5
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleK
+  rotate: false
+  xy: 834, 18
+  size: 52, 52
+  split: 8, 8, 8, 8
+  pad: -1, -1, 12, 8
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleL
+  rotate: false
+  xy: 1010, 24
+  size: 50, 50
+  split: 12, 13, 6, 8
+  pad: 13, 13, 6, 7
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedEdgeRectangleM
+  rotate: false
+  xy: 472, 6
+  size: 54, 64
+  split: 26, 26, 28, 27
+  pad: 26, 26, 34, 24
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedTopEdgeRectangle-small
+  rotate: false
+  xy: 1042, 4
+  size: 24, 12
+  split: 10, 10, 10, 0
+  pad: 10, 10, -1, -1
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Skins/Scifi/roundedTopEdgeRectangle-small-border
+  rotate: false
+  xy: 1010, 4
+  size: 24, 12
+  split: 10, 10, 10, 0
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Skins/Scifi/select-box
+  rotate: false
+  xy: 1856, 142
+  size: 84, 38
+  split: 6, 32, 3, 33
+  pad: 6, 33, 3, 33
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+Skins/Scifi/select-box-pressed
+  rotate: false
+  xy: 182, 32
+  size: 84, 38
+  split: 6, 32, 3, 33
+  pad: 6, 33, 3, 32
+  orig: 84, 38
+  offset: 0, 0
+  index: -1

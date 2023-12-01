@@ -1,0 +1,293 @@
+{
+	"baseColor": {"r":0.02,"g":0.02,"b":0.2,"a":1},
+	"clearColor": {"r":0.02,"g":0.02,"b":0.1,"a":1},
+	
+	"skinVariants": {
+	"Border": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "rectangleWithOutlineB"
+	},
+	"General/ExpanderTab": {
+			"tint": {"r":1,"g":1,"b":1,"a":0.6},
+			"image": "Expander"
+	},
+	"General/Tooltip": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "Tooltip"
+	},
+	"General/Border": {
+			"image": "rectangleWithOutlineC"
+	},
+	"CivilopediaScreen/EntryButton": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "roundedEdgeRectangleG"
+	},
+	"General/TabbedPager": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "bgC"
+	},
+	"General/KeyCapturingButton": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeHexagonB"
+	},
+	"General/HealthBar": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutlineB"
+	},
+	"General/Popup/Background": {
+		    "tint": {"r":1,"g":1,"b":1,"a":0.75},
+			"image": "bgD"
+	},	
+	"General/Popup/InnerTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "bgF"
+	},
+	"LanguagePickerScreen/LanguageTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleD"
+	},	
+	"MainMenuScreen/Background": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "bg"
+	},
+	"MainMenuScreen/MenuButton": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleD"
+	},
+	"NewGameScreen/TopTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TopTable"
+	},
+	"NewGameScreen/PlayerPickerTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TopTableB"
+	},
+	"NewGameScreen/PlayerPickerTable/PlayerTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":0.75},
+			"image": "roundedEdgeHexagon"
+	},
+	"NewGameScreen/GameOptionsTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TopTableC"
+	},
+	"NewGameScreen/MapOptionsTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TopTableC"
+	},
+	"NewGameScreen/BottomTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"NewGameScreen/NationTable/Background": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "bgB"
+	},	
+	"NewGameScreen/NationTable/Title": {
+			"image": "roundedEdgeRectangleF"
+	},	
+	"NewGameScreen/NationTable/BorderTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TopTableD"
+	},	
+	"NewGameScreen/NationTable/RightInnerTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeHexagonB"
+	},
+	"MultiplayerScreen/TopTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"MultiplayerScreen/BottomTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"LoadGameScreen/TopTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"LoadGameScreen/BottomTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"MapEditor/MapEditorToolsDrawer/Handle": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TopTableE"
+	},
+	"ModManagementOptions/ExpanderTab": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleC"
+	},
+	"ModManagementScreen/TopTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"ModManagementScreen/BottomTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"OverviewScreen/DiplomacyOverviewTab/CivTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutline"
+	},
+	"OverviewScreen/NotificationOverviewTable/Notification": {
+			"tint": {"r":0.95,"g":0.95,"b":1,"a":1},
+			"image": "ExpanderB"
+	},
+    "OverviewScreen/ReligionOverviewTab/BeliefDescription": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeHexagon"
+	},
+	"OverviewScreen/TradesOverviewTab/OffersTable": {
+			"image": "roundedEdgeRectangleF"
+	},
+    "OverviewScreen/UnitOverviewTab/UnitSupplyTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleB"
+	},
+	"PlayerReadyScreen/Background": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},	
+	"TechPickerScreen/Background": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutline"
+	},
+	"TechPickerScreen/BottomTable": {
+			"tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"TechPickerScreen/CurrentTechColor": {
+			"tint": {"r":0,"g":0.85,"b":0.85,"a":1}
+	},
+	"TechPickerScreen/QueuedTechColor": {
+			"tint": {"r":1,"g":0,"b":1,"a":1}
+	},
+	"TechPickerScreen/ResearchableTechColor": {
+			"tint": {"r":0,"g":0.3,"b":0.6,"a":1}
+	},
+	"TechPickerScreen/ResearchedFutureTechColor": {
+			"tint": {"r":1,"g":1,"b":1,"a":1}
+	},
+	"TechPickerScreen/ResearchedTechColor": {
+			"tint": {"r":0.5,"g":0.15,"b":0,"a":1}
+	},
+	"TechPickerScreen/TechButtonIconsOutline": {
+			"image": "roundedEdgeRectangleE"
+	},
+	"TechPickerScreen/TechButton": {
+			"image": "roundedEdgeRectangleM"
+	},
+	"VictoryScreen/CivGroup": {
+			"image": "roundedEdgeRectangleE"
+	},
+	"WorldScreen/CityButton/AirUnitTable": {
+			"image": "rectangleWithOutlineC"
+	},
+	"WorldScreen/BattleTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":0.95},
+			"image": "roundedEdgeRectangleG"
+	},
+	"WorldScreen/Notification": {
+			"image": "ExpanderB"
+	},
+	"WorldScreen/PickTechButton": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleJ"
+	},
+	"WorldScreen/TileInfoTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleG"
+	},
+	"WorldScreen/TutorialTaskTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleB"
+	},
+	"WorldScreen/UnitTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleG"
+	},
+	"WorldScreen/CityButton/InfluenceBar": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutline"
+	},
+	"WorldScreen/Minimap/Background": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "bgE"
+	},
+	"WorldScreen/Minimap/Border": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutlineB"
+	},
+	"WorldScreen/TopBar/LeftAttachment": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutlineB"
+	},
+	"WorldScreen/TopBar/ResourceTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":0.95},
+			"image": "roundedEdgeRectangleI"
+	},
+	"WorldScreen/TopBar/RightAttachment": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutline"
+	},
+	"WorldScreen/TopBar/StatsTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":0.95},
+			"image": "roundedEdgeRectangleH"
+	},
+	"CityScreen/ConstructionInfoTable/SelectedConstructionTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleD"
+	},
+	"CityScreen/ConstructionInfoTable/Background": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutlineB"
+	},
+	"CityScreen/CityStatsTable/InnerTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"CityScreen/CityStatsTable/Background": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutlineB"
+	},
+	"CityScreen/CityScreenTileTable/InnerTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"CityScreen/CityScreenTileTable/Background": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "rectangleWithOutlineB"
+	},
+	"CityScreen/CityConstructionTable/PickConstructionButton": {
+			"image": "roundedEdgeRectangleJ"
+	},
+	"CityScreen/CityConstructionTable/PickConstructionButtonSelected": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleD"
+	},
+	"CityScreen/CityConstructionTable/Header": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "roundedEdgeRectangleK"
+	},
+	"CityScreen/CityConstructionTable/ConstructionsQueueTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"CityScreen/CityConstructionTable/AvailableConstructionsTable": {
+		    "tint": {"r":1,"g":1,"b":1,"a":1},
+			"image": "TableD"
+	},
+	"CityScreen/CitizenManagementTable/AvoidCell": {
+			"image": "roundedEdgeRectangleE"
+	},
+	"CityScreen/CitizenManagementTable/FocusCell": {
+			"image": "roundedEdgeRectangleE"
+	},
+	"CityScreen/CitizenManagementTable/ResetCell": {
+			"image": "roundedEdgeRectangleE"
+	},
+	"CityScreen/CityPickerTable": {
+			"image": "roundedEdgeRectangleE"
+	},
+	}
+}
